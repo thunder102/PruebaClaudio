@@ -1,3 +1,5 @@
+[Enlace interno](https://github.com/thunder102/PruebaClaudio/blob/master/Nombre.md)
+
 # PruebaClaudio
 
     #Titulo1
