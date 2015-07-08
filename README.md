@@ -5,14 +5,14 @@
     ###Titulo3
     ####Titulo4
 
-1. Item 1
-2. Item 2
-3. Item 3
- - Subitem1
- - Subitem2
-4. Lista de chequeo
- - [ ] No cumplido
- - [X] Cumplido
+    1. Item 1
+    2. Item 2
+    3. Item 3
+     - Subitem1
+     - Subitem2
+    4. Lista de chequeo
+     - [ ] No cumplido
+     - [X] Cumplido
  
  ![Imagen1](http://i.ytimg.com/vi/eT-ztohp0i4/maxresdefault.jpg)
 
